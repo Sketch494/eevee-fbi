@@ -9,3 +9,6 @@
 <p align="left">
 <a href="https://discord.gg/ZBumxuRsgZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ZBumxuRsgZ" height="30" width="40" /></a>
 </p>
+
+![image](https://user-images.githubusercontent.com/72167950/230514100-b1eddf28-545d-4768-9b5a-637713d3f3ec.png)
+
